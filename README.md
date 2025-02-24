@@ -1,4 +1,4 @@
-# Secure File Upload API
+# Very Simple Image Upload API
 
 A PHP-based secure file upload API that handles file uploads with authentication, stores files securely, and maintains a database record of uploaded files.
 
