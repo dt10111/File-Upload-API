@@ -17,7 +17,7 @@ if (!is_dir($uploadDir)) {
 }
 
 // Allowed file types
-$allowedFileTypes = ['image/jpeg', 'image/png', 'image/gif', 'application/pdf', 'text/plain'];
+$allowedFileTypes = ['image/jpeg', 'image/png', 'image/gif'];
 
 // Function to verify the token
 function isTokenValid($token, $validTokens) {
